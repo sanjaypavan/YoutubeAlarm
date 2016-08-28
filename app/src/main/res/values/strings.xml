@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_done">Done</string>
+    <string name="youtube_url">Youtube URL</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="delete_alarm_item">Delete</string>
+</resources>
