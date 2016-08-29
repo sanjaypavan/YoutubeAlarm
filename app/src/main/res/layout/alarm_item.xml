@@ -8,7 +8,9 @@
     android:layout_height="wrap_content"
     android:minHeight = "?android:attr/listPreferredItemHeight"
     android:gravity="center_vertical"
-    android:id="@+id/alarm_item_text_view">
+    android:id="@+id/alarm_item_text_view"
+    android:textColor="@android:color/white"
+    >
 </TextView>
 
     <Button android:id="@+id/delete_alarm_item"

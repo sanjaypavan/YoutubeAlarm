@@ -24,6 +24,7 @@ public class AlarmOperations {
 
         AlarmManager alarmManager = (AlarmManager) context.getSystemService(Context.ALARM_SERVICE);
         Intent myIntent = new Intent(context, YoutubeAlarmReciever.class);
+        myIntent.putExtra("yt_key",alarmData.getStorageKey());
 
         PendingIntent pendingIntent = PendingIntent.getBroadcast(context, alarmData.getAlarmId(), myIntent, PendingIntent.FLAG_UPDATE_CURRENT );
 
