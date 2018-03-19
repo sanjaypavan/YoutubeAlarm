@@ -13,27 +13,36 @@
         android:background="@android:color/black">
     </TimePicker>
 
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
     <TextView
         android:layout_width="match_parent"
         android:layout_height="@dimen/activity_horizontal_margin"
         android:text="@string/youtube_url"
-        android:textColor="@android:color/white"/>
+        android:textColor="@android:color/white"
+        android:layout_above="@+id/youtube_url"/>
 
     <EditText android:id="@+id/youtube_url"
         android:layout_width="match_parent"
-        android:layout_height="25px"
-        android:background="@android:color/holo_blue_bright"
+        android:layout_height="40dp"
+        android:background="@android:color/holo_blue_dark"
         android:gravity="center"
-        android:backgroundTint="@android:color/holo_blue_light">
+        android:backgroundTint="@android:color/white"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="100dp">
     </EditText>
 
     <Button
-        android:layout_width="match_parent"
+        android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:text = "@string/button_done"
         android:onClick="alarmTimeSelected"
         android:layout_margin="@dimen/activity_horizontal_margin"
-        android:background="@color/button_color"/>
+        android:background="@color/button_color"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
 
-
+</RelativeLayout>
 </LinearLayout>

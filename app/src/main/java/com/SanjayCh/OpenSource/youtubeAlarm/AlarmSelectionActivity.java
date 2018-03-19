@@ -1,4 +1,4 @@
-package com.SanjayCh.OpenSource.youtubeAlarm;
+package com.SanjayCh.OpenSource.YoutubeAlarm;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,9 +10,9 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.TimePicker;
 
-import com.SanjayCh.OpenSource.youtubeAlarm.data.AlarmData;
-import com.SanjayCh.OpenSource.youtubeAlarm.utils.AlarmOperations;
-import com.SanjayCh.OpenSource.youtubeAlarm.utils.StorageOperations;
+import com.SanjayCh.OpenSource.YoutubeAlarm.data.AlarmData;
+import com.SanjayCh.OpenSource.YoutubeAlarm.utils.AlarmOperations;
+import com.SanjayCh.OpenSource.YoutubeAlarm.utils.StorageOperations;
 
 public class AlarmSelectionActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.SanjayCh.OpenSource.youtubeAlarm;
+package com.SanjayCh.OpenSource.YoutubeAlarm;
 
 import org.junit.Test;
 

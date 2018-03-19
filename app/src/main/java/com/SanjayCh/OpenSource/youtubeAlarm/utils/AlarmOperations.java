@@ -1,12 +1,12 @@
-package com.SanjayCh.OpenSource.youtubeAlarm.utils;
+package com.SanjayCh.OpenSource.YoutubeAlarm.utils;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;
 import android.content.Context;
 import android.content.Intent;
 
-import com.SanjayCh.OpenSource.youtubeAlarm.Alarm.YoutubeAlarmReciever;
-import com.SanjayCh.OpenSource.youtubeAlarm.data.AlarmData;
+import com.SanjayCh.OpenSource.YoutubeAlarm.Alarm.YoutubeAlarmReciever;
+import com.SanjayCh.OpenSource.YoutubeAlarm.data.AlarmData;
 
 import java.util.Calendar;
 

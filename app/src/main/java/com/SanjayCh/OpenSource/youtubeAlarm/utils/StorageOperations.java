@@ -1,9 +1,9 @@
-package com.SanjayCh.OpenSource.youtubeAlarm.utils;
+package com.SanjayCh.OpenSource.YoutubeAlarm.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 
-import com.SanjayCh.OpenSource.youtubeAlarm.data.AlarmData;
+import com.SanjayCh.OpenSource.YoutubeAlarm.data.AlarmData;
 
 import org.json.JSONException;
 import org.json.JSONObject;
