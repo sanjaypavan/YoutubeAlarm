@@ -1,4 +1,4 @@
-package com.example.sanjay.youtubeAlarm.Alarm;
+package com.SanjayCh.OpenSource.youtubeAlarm.Alarm;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -6,8 +6,8 @@ import android.content.Intent;
 import android.net.Uri;
 import android.util.Log;
 
-import com.example.sanjay.youtubeAlarm.data.AlarmData;
-import com.example.sanjay.youtubeAlarm.utils.StorageOperations;
+import com.SanjayCh.OpenSource.youtubeAlarm.data.AlarmData;
+import com.SanjayCh.OpenSource.youtubeAlarm.utils.StorageOperations;
 
 /**
  * Created by Sanjay on 27-08-2016.

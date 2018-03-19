@@ -1,4 +1,4 @@
-package com.example.sanjay.youtubeAlarm.utils;
+package com.SanjayCh.OpenSource.youtubeAlarm.utils;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,8 +8,8 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.example.sanjay.youtubeAlarm.R;
-import com.example.sanjay.youtubeAlarm.data.AlarmData;
+import com.SanjayCh.OpenSource.youtubeAlarm.R;
+import com.SanjayCh.OpenSource.youtubeAlarm.data.AlarmData;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.sanjay.youtubeAlarm;
+package com.SanjayCh.OpenSource.youtubeAlarm;
 
 import android.content.Context;
 import android.content.Intent;
@@ -7,9 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ListView;
 
-import com.example.sanjay.youtubeAlarm.data.AlarmData;
-import com.example.sanjay.youtubeAlarm.utils.AlarmListAdapter;
-import com.example.sanjay.youtubeAlarm.utils.StorageOperations;
+import com.SanjayCh.OpenSource.youtubeAlarm.data.AlarmData;
+import com.SanjayCh.OpenSource.youtubeAlarm.utils.AlarmListAdapter;
+import com.SanjayCh.OpenSource.youtubeAlarm.utils.StorageOperations;
 
 import java.util.ArrayList;
 import java.util.List;

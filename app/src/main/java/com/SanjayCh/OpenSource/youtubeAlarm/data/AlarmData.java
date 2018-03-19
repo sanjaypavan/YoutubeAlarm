@@ -1,4 +1,4 @@
-package com.example.sanjay.youtubeAlarm.data;
+package com.SanjayCh.OpenSource.youtubeAlarm.data;
 
 /**
  * Created by Sanjay on 26-08-2016.

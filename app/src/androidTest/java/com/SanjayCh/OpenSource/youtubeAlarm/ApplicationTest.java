@@ -1,4 +1,4 @@
-package com.example.sanjay.youtubeAlarm;
+package com.SanjayCh.OpenSource.youtubeAlarm;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
